@@ -4,6 +4,6 @@
   .then(r => {
     console.log(r)
     document.querySelector('.voyage').innerText = r['voyages-label']
-    document.querySelector('.description').innerText = r['voyages-description']
+    document.querySelector('.description').innerHTML = r['voyages-description']
     document.querySelector('.prix').innerText = r['voyages-prix']
   })
