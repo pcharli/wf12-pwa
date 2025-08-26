@@ -27,4 +27,4 @@ const install = () => {
         installBtn.classList.add('hidden')
     })
 }
-export default install
+install()
