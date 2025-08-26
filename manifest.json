@@ -6,6 +6,8 @@
     "version": "1.0",
     "author": "Saint Axerror",
     "display": "standalone",
+    "theme_color": "#FF0000",
+    "background_color": "#000000",
     "icons": [
         {
             "src": "icons/favicon-16x16.png",
