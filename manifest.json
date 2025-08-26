@@ -40,9 +40,15 @@
             "src": "screenshots/screenshot-portrait.png",
             "type": "image/png",
             "sizes": "455x624",
+          "form_factor": "narrow",
+          "label": "News du web ! La page"
+        },
+        {
+            "src": "screenshots/screenshot-landscape.png",
+            "type": "image/png",
+            "sizes": "1046x624",
           "form_factor": "wide",
           "label": "News du web ! La page"
-
         }
     ]
 }

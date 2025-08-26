@@ -12,3 +12,17 @@ h2 {
 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.hidden {
+    display: none;
+}
+.install-btn {
+    position: absolute;
+    width: 90%;
+    height: 5rem;
+    line-height: 5rem;
+    cursor:pointer;
+    background-color: red;
+    left: 5%;
+    color: white;
+    font-size: 2rem;
+}
